@@ -1,4 +1,4 @@
-# novozymes-enzyme-stability-prediction
+# Novozymes Enzyme Stability Prediction
 
 
 * Novozymes finds enzymes in nature and optimizes them for use in industry. The goal of this project is to predict the thermostability (melting point) after single-point amino acid mutation and deletion.
